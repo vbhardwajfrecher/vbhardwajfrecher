@@ -22,8 +22,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vbhardwajfrecher&show_icons=true&locale=en&layout=compact" alt="vbhardwajfrecher" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vbhardwajfrecher&show_icons=true&locale=en" alt="vbhardwajfrecher" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=vbhardwajfrecher&show_icons=true&locale=en" alt="vbhardwajfrecher" /></p>
 
+<a href>&nbsp;<img align="left" src="https://market.uhive.com/customer/profile/" alt="NFT" /></a>
 
 
 
