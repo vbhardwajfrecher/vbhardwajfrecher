@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python,Django Framework**
 
-- 💬 Ask me about **HTML, CSS, API**
+- 💬 Ask me about **Python, MySQL, HTML, CSS, API, DSA**
 
 - 📫 How to reach me **vijay.kumar5295@gmail.com**
 
